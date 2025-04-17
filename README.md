@@ -1,11 +1,11 @@
-# 📲 Aplikasi CRUD Alamat – Flutter + REST API
+Aplikasi CRUD Alamat – Flutter + REST API
 
 Aplikasi ini merupakan implementasi dari sistem **CRUD Alamat** menggunakan Flutter, terhubung dengan **REST API Blueray Cargo**.  
 User dapat melakukan **login, registrasi, mengatur alamat, upload NPWP**, serta menggunakan **OpenStreetMap untuk pemilihan lokasi.**
 
 ---
 
-## ✨ Fitur Aplikasi
+Fitur Aplikasi
 
 ### 1. Autentikasi
 - **Login**: User dapat login menggunakan email & password.
@@ -20,7 +20,7 @@ User dapat melakukan **login, registrasi, mengatur alamat, upload NPWP**, serta 
 - **Update**: Edit alamat yang sudah tersimpan
 - **Delete**: Hapus alamat dari sistem
 
-### 3. Set Default Address ⭐
+### 3. Set Default Address
 - User bisa memilih salah satu alamat sebagai **alamat utama**
 - Alamat default ditandai dengan ikon ⭐ warna kuning
 
@@ -38,7 +38,7 @@ User dapat melakukan **login, registrasi, mengatur alamat, upload NPWP**, serta 
 
 ---
 
-## 🛠 Teknologi yang Digunakan
+## Teknologi yang Digunakan
 
 - **Flutter** (null safety)
 - **StatefulWidget + Form**
@@ -50,7 +50,7 @@ User dapat melakukan **login, registrasi, mengatur alamat, upload NPWP**, serta 
 
 ---
 
-## 🚀 Cara Menjalankan Aplikasi
+## Cara Menjalankan Aplikasi
 
 1. Clone repo ini
 2. Jalankan perintah:
